@@ -56,7 +56,7 @@ Currently, I am improving my skills through real-world projects and exploring mo
 
 ## 🌍 Live Demo
 
-👉 Add your deployed link here (GitHub Pages)
+👉 [Live Portfolio](https://niyatipandey.github.io/Portfolio/)
 
 ---
 
